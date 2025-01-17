@@ -9,7 +9,7 @@ It includes evaluation of models - Accuracy of prediction, and a Leave-One-Out C
 
 ## Citation
 Gong, X., & Huskey, R. (2023). Media selection is highly predictable, in principle. Computational Communication Research, 5(1), 1. doi: https://doi.org/10.5117/CCR2023.1.15.GONG
-
+```
 @article{gong2023media,
   title={Media selection is highly predictable, in principle},
   author={Gong, Xuanjun and Huskey, Richard},
@@ -21,7 +21,7 @@ Gong, X., & Huskey, R. (2023). Media selection is highly predictable, in princip
   publisher={Amsterdam University Press Amsterdam},
   doi={https://doi.org/10.5117/CCR2023.1.15.GONG}
 }
-
+```
 
 ## Data
 1. Last.fm Music Recommendation Dataset (1K users).
